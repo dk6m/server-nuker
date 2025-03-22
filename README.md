@@ -21,7 +21,7 @@ This is a Discord bot built using `discord.js` that provides various administrat
    ```
 
 ## Usage
-1. Open `index.js` and replace `YOUR_BOT_TOKEN_HERE` with your actual bot token.
+1. Open `index.js` and replace `YOUR BOT TOKEN` with your actual bot token.
 2. Run the bot:
    ```sh
    node index.js
@@ -35,6 +35,4 @@ This is a Discord bot built using `discord.js` that provides various administrat
 ## Disclaimer
 This bot is intended for educational and testing purposes only. Using it maliciously violates Discord’s Terms of Service and can result in bans.
 
-## License
-This project is licensed under the MIT License.
 
