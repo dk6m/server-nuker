@@ -13,7 +13,7 @@ This is a Discord bot built using `discord.js` that provides various administrat
 1. Clone the repository:
    ```sh
    git clone https://github.com/dk6m/server-nuker.git
-   cd nuker
+   cd server-nuker
    ```
 2. Install dependencies:
    ```sh
